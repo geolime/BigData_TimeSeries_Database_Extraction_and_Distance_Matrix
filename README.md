@@ -3,6 +3,7 @@ An R programming script designed to extract data from a 25+ million record datab
 
 The databases had varying levels of data standard changes within the time series thus multiple extraction loops needed to be created for handling the variations.
 These time periods were:
+
 **1990-1997
 1998-2003
 2004

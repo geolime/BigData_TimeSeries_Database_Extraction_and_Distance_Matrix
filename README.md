@@ -15,3 +15,5 @@ These time periods were:
 **2015-2017**
 
 Includes creating a distance matrix for the 7 closest stations within the municipality of Malmö.
+
+https://github.com/geolime/BigData_TimeSeries_Database_Extraction_and_Distance_Matrix/blob/master/Big_Data_Extraction.r
